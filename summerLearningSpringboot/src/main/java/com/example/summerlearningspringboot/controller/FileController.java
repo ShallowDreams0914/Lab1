@@ -36,6 +36,8 @@ import java.util.Map;
 public class FileController {
     //fkxiaoyu
 
+    //修改2.1
+
     @Value("${ip}")
     private String ip;
 
