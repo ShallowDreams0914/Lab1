@@ -34,7 +34,7 @@ import java.util.Map;
 @RestController
 @RequestMapping("/file")
 public class FileController {
-
+    //修改2.1
     @Value("${ip}")
     private String ip;
 
