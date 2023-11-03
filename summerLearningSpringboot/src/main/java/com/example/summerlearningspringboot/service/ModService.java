@@ -25,6 +25,7 @@ import java.util.List;
  */
 @Service
 public class ModService extends ServiceImpl<ModMapper, Mod> {
+    //修改1.2
     @Autowired
     ModMapper modMapper;
 
